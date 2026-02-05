@@ -74,10 +74,10 @@ export default function Anniversary() {
                     1 Año
                 </h1>
                 <h2 className="fade-in" style={{ fontSize: '2rem', marginBottom: '2rem', animationDelay: '0.2s', fontWeight: 300 }}>
-                    Un viaje increíble juntos
+
                 </h2>
                 <p className="fade-in" style={{ fontSize: '1.2rem', marginBottom: '2rem', animationDelay: '0.4s', maxWidth: '600px', margin: '0 auto 2rem' }}>
-                    365 días de recuerdos, risas y amor. Gracias por ser parte de mi vida.
+
                 </p>
                 <button className="btn" style={{
                     background: 'linear-gradient(135deg, #d4af37, #b4690e)',
